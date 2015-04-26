@@ -6,3 +6,9 @@ The idea is that you
 
 
 And you're done. Your map is live.
+
+The implementation:
+* Upload a map
+* Select a gamemode
+  - or vote ingame to update map
+
