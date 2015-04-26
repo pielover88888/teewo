@@ -1,4 +1,4 @@
-# teewo
+# TeeWhoa
 The idea is that you
 * Upload a map
 * Select a gamemode
